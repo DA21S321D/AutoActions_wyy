@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron: 30 17 * * *
+    - cron: 42 17 * * *
   # 每天运行两次，在上午 6 点和晚上 22 点。    
   watch:
     types: started
