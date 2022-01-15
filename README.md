@@ -1,4 +1,4 @@
-# 网易what
+# 网易whathell
 > 网易云音乐自动登录签到 + 刷歌 310 首
 
 ## Github Actions 部署指南
@@ -13,7 +13,7 @@
 
 > Settings-->Secrets-->New secret
 
-支持多账号，账号之间与密码之间用 ***#*** 分隔，账号与密码的个数
+支持多账号，账号之间与密码之间用 ***#*** 分隔jk，账号与密码的个数
 
 示例：**USER:13800000000#13800000001**，**PWD:cxkjntm#jntmcxk**
 ![image-20200727142753175](https://i.loli.net/2020/07/27/xjri3p4qdchaf2G.png)
